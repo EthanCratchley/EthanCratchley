@@ -7,4 +7,4 @@ I am passionate about continuously challenging myself and learning new skills. I
 This coming summer I am looking for internships in Finance, Software Engineering, or an intersection of the two.
 
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
