@@ -1,6 +1,6 @@
 # Hey, I'm Ethan!
 
-I'm currently studying Business Administration at Capilano University but, I am seeking to transfer schools to UBC or SFU. Furthermore I plan to enroll in a Business Administration and Computer Science Joint Major program.
+I'm currently studying Business Administration at Capilano University, I am seeking to transfer schools to UBC or SFU. Furthermore I plan to enroll in a Business Administration and Computer Science Joint Major program.
 
 I am currently working on finsihing up my first project of the year "Financial News". Estimating completion by the end of January, this project uses Python, GPT API, CSS, JavaScript, MongoDB, Vercel, Next.js, and React to fetch financial news RSS Feeds and then summarize, store, and display them.
 
