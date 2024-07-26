@@ -1,12 +1,14 @@
 # Hey, I'm Ethan!
 
-I'm currently studying Business Administration at Capilano University, I am seeking to transfer schools to UBC or SFU. Furthermore I plan to enroll in a Business Administration and Computer Science Joint Major program.
+I'm currently studying Business Administration at the Beedie School of Business at Simon Fraser University. I plan to enroll in a Business Administration and Computer Science Joint Major program.
 
-I am currently working on finsihing up my first project of the year "Financial News". Estimating completion by the end of January, this project uses Python, GPT API, CSS, JavaScript, MongoDB, Vercel, Next.js, and React to fetch financial news RSS Feeds and then summarize, store, and display them.
+This summer I will be working on the Operations team at Wilson M. Beck Insurance.
 
-I am passionate about continuously challenging myself and learning new skills. In my free time I enjoy programming, studying companies, fitness, golf, and more.
+I am currently studying algorithm optimization and improving my technical capabilities. As well as doing research on various financial instruments.
 
-This coming summer I am looking for internships in Finance, Software Engineering, or an intersection of the two.
+I love to continuously challenge myself and learn.
+
+In the future I plan to build SAAS products for businesses and people.
 
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/languages.svg#gh-dark-mode-only)
