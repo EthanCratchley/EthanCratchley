@@ -2,13 +2,17 @@
 
 I'm currently studying Business Administration at the Beedie School of Business at Simon Fraser University. I plan to enroll in a Business Administration and Computer Science Joint Major program.
 
-This summer I will be working on the Operations team at Wilson M. Beck Insurance.
+This fall, I will be taking Discrete Math, Managerial Economics, Financial Accounting, and Introduction to Computer Science.
 
-I am currently studying algorithm optimization and improving my technical capabilities. As well as doing research on various financial instruments.
+This year, I will be conducting equity research on various financial instruments for the SFU Investing Club, where we will also compete in stock pitch competitions, investing challenges, and case studies.
 
 I love to continuously challenge myself and learn.
 
-In the future I plan to build SAAS products for businesses and people.
+In my spare time I am studying artificial intelligence and working to improve my technical capabilities as I prepare for my next project
+
+To stay active, I play soccer recreationally and also run, bike, and lift in preparation for my next event. I am also working on improving my tennis and golf game.
+
+In the future I plan to build SaaS products for businesses and people.
 
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/languages.svg#gh-dark-mode-only)
