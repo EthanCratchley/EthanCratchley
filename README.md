@@ -2,7 +2,7 @@
 
 Pursuing a Bachelor of Business Administration and Computer Science Joint Major at Simon Fraser University.
 
-This spring, I will be taking Linear Algebra, HR & Management, Project Management, Economics and Government., and Computer Science II.
+This spring, I will be taking Linear Algebra, HR & Management, Project Management, and Computer Science II.
 
 I am apart of the Product Development team at Autonommi, where I will be building AI infrastructure, working with LLMs, conducting market research, and more.
 
