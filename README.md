@@ -10,7 +10,7 @@ I am a Project Lead at the SFU Open Source Development Club. I will be leading t
 
 This year, I will be conducting equity research on various financial instruments for the SFU Investment Club (SFIC), where we will also compete in stock pitch competitions, investing challenges, and case studies.
 
-other interests: cybersec, robotics, chess, poker, history, running, transhumanism
+other interests: cyber sec, robotics, chess, poker, history, running, transhumanism
 
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/languages.svg#gh-dark-mode-only)
