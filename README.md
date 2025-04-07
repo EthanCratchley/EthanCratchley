@@ -12,7 +12,7 @@ Serving as a Project Lead at the SFU Open Source Development Club, where I am le
 
 Conducting equity research on various financial instruments for the SFU Investment Club (SFIC), participating in stock pitch competitions, investing challenges, and case studies.
 
-other interests: history, tennis, golf, chess, poker, transhumanism
+other interests: history, tennis, golf, chess, poker, transhumanism, robotics/drones
 
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/languages.svg#gh-dark-mode-only)
