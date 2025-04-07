@@ -1,16 +1,16 @@
 # Hey, I'm Ethan!
 
-Pursuing a Bachelor of Computer Science and Business Administration Joint Major at Simon Fraser University.
+Pursuing a Bachelor of Computer Science and Business Administration Joint Major with a Concentration in Artificial Intelligence at Simon Fraser University.
 
-This spring, I will be taking Linear Algebra, HR & Management, Project Management, and Computer Science II.
+This summer, I will be taking Data Structures and Algorithms, Introduction to Finance, and Data Visualization.
 
-I am apart of the Product Development team at Autonommi, where I will be building AI infrastructure, working with LLMs, developing RAG models, conducting market research, and more.
+In August, I will be heading to the National University of Singapore to study Computer Science and AI as well as travel around Asia, visiting Japan, China, Vietnam, South Korea, and more.
 
-I am a Project Lead at the SFU Open Source Development Club. I will be leading the team and continuing to develop and expand Financial Fast Feed which automatically displays and summarizes various financial news articles using GPT 4o.
+Working as a technical member of the Product Development team at Autonommi, where I am building AI infrastructure, working with LLMs, developing RAG models, conducting market research, and more.
 
-This year, I will be conducting equity research on various financial instruments for the SFU Investment Club (SFIC), where we will also compete in stock pitch competitions, investing challenges, and case studies.
+Serving as a Project Lead at the SFU Open Source Development Club, where I am leading the team in developing and expanding Financial Fast Feed—a tool that automatically displays and summarizes financial news articles using OpenAI API.
 
-other interests: cyber sec, robotics, chess, poker, history, running, transhumanism
+Conducting equity research on various financial instruments for the SFU Investment Club (SFIC), participating in stock pitch competitions, investing challenges, and case studies.
 
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/languages.svg#gh-dark-mode-only)
