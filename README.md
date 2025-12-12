@@ -2,7 +2,7 @@
 
 Pursuing a Bachelor of Computer Science and Business Administration Joint Major with a Concentration in Artificial Intelligence at Simon Fraser University (SFU).
 
-In the Spring, I will be studying Artificial Intelligence, Systems Programming, Database Systems and Math.
+In the Spring, I will be studying Artificial Intelligence, Systems Programming, Database Systems and Software Engineering.
 
 Working at Autnommi as a Software Engineer working on LLMs, RAG systems, as well as contributing across applied AI, full-stack development, CI/CD workflows, security, and deployment.
 
