@@ -4,7 +4,7 @@ Pursuing a Bachelor of Computer Science and Business Administration Joint Major 
 
 Working at Autonommi as a Software Engineer on RAG systems and applied AI to various industries.
 
-Sourcing deals for Front Row Ventures as a Venture Scout.
+Sourcing deals at Front Row Ventures as a Venture Scout.
 
 Studying, writing, and working on projects related to AI, Cyber Security and more.
 
