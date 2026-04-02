@@ -2,9 +2,9 @@
 
 Pursuing a Bachelor of Computer Science and Business Administration Joint Major with a Concentration in Artificial Intelligence at Simon Fraser University (SFU).
 
-In the Spring, I will be studying Artificial Intelligence, Systems Programming, Database Systems and Software Engineering.
+Working at Autonommi as a Software Engineer on RAG systems and applied AI to various industries.
 
-Working at Autnommi as a Software Engineer working on LLMs, RAG systems, as well as contributing across applied AI, full-stack development, CI/CD workflows, security, and deployment.
+Sourcing deals for Front Row Ventures as a Venture Scout.
 
 Studying, writing, and working on projects related to AI, Cyber Security and more.
 
