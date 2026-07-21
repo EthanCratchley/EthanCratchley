@@ -1,6 +1,6 @@
 # Hey, I'm Ethan!
 
-Pursuing a Bachelor of Computer Science and Business Administration Joint Major with a Concentration in Artificial Intelligence at Simon Fraser University (SFU).
+Pursuing a Bachelor of Computer Science and Business Joint Major with a Concentration in Artificial Intelligence at Simon Fraser University (SFU).
 
 Working at Autonommi as a Software Engineer on RAG systems and applied AI to various industries.
 
