@@ -6,7 +6,4 @@ Working at Autonommi as a Software Engineer on RAG systems and applied AI to var
 
 Sourcing deals at Front Row Ventures as a Venture Scout.
 
-Studying, writing, and working on projects related to AI, Cyber Security and more.
-
-![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/EthanCratchley/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+Studying, writing, and working on projects.
